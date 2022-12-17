@@ -1,6 +1,6 @@
 /**
  * @file serial.cpp
- * @author Lars Hederidder (lh@ctcoin.com)
+ * @author Lars Hederidder (coder@worldwidewhat.dk)
  * @brief Serial interface for Linux and Windows
  * @version 0.1
  * @date 2021-09-02

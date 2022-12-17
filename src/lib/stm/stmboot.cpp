@@ -1,6 +1,6 @@
 /**
  * @file stmboot.cpp
- * @author Lars Hederidder (lh@ctcoin.com)
+ * @author Lars Hederidder (coder@worldwidewhat.dk)
  * @brief STM Bootloader handler / interface
  * @version 0.1
  * @date 2021-09-02
